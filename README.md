@@ -1,6 +1,7 @@
 Contributions
 ==========
-This was a group project created at [Hack Reactor][hr] with a team of four in one week. I was the lead engineer and contributed to most parts of the application.
+This was a group project created at [Hack Reactor][hr] with a team of four in one week. I was the lead engineer and contributed to all parts of the application.
+Please refer to my commits to see the code that I wrote.
 
 - Application architect
     - Built out Backend Express REST architecture
